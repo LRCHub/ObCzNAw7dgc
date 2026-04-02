@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "貴方解剖純愛歌～死ね～",
+  "base_track": "貴方解剖純愛歌 〜死ね〜",
   "base_artist": "あいみょん",
-  "createdAt": "2026-02-23T08:07:28.188509Z",
+  "createdAt": "2026-04-02T12:58:11.914472Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -47,10 +47,19 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "貴方解剖純愛歌～死ね～",
+      "title": "貴方解剖純愛歌 ～死ね～",
       "artist": "あいみょん",
       "has_synced": false,
-      "path": "select/pl_01_貴方解剖純愛歌~死ね~_あいみょん.txt"
+      "path": "select/pl_01_貴方解剖純愛歌_~死ね~_あいみょん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "貴方解剖純愛歌 〜死ね〜",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_01_貴方解剖純愛歌_〜死ね〜_あいみょん.lrc",
+      "repo_name": "AkPE7X8WqpI"
     }
   ]
 }
